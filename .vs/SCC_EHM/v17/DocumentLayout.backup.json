@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|solutionrelative:documentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|solutionrelative:documentapi\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|solutionrelative:documentapi\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|solutionrelative:documentapi\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|solutionrelative:documentapi\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\controllers\\documentcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|solutionrelative:documentapi\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|solutionrelative:documentapi\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|DocumentApi\\DocumentApi.csproj|c:\\users\\georgi.topalov\\downloads\\scc_ehm_v1\\documentapi\\data\\documentsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,30 +59,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DocumentDto.cs",
-              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\DTOs\\DocumentDto.cs",
-              "RelativeDocumentMoniker": "DocumentApi\\DTOs\\DocumentDto.cs",
-              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\DTOs\\DocumentDto.cs",
-              "RelativeToolTip": "DocumentApi\\DTOs\\DocumentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T14:07:04.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DocumentContentController.cs",
-              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Controllers\\DocumentContentController.cs",
-              "RelativeDocumentMoniker": "DocumentApi\\Controllers\\DocumentContentController.cs",
-              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Controllers\\DocumentContentController.cs",
-              "RelativeToolTip": "DocumentApi\\Controllers\\DocumentContentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:55:48.011Z"
             },
             {
               "$type": "Document",
@@ -104,10 +80,60 @@
               "RelativeDocumentMoniker": "DocumentApi\\appsettings.json",
               "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\appsettings.json",
               "RelativeToolTip": "DocumentApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-02T11:20:42.564Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "DocumentApi\\Services\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\BlobStorageService.cs",
+              "RelativeToolTip": "DocumentApi\\Services\\BlobStorageService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:17:22.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentApi\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\DocumentService.cs",
+              "RelativeToolTip": "DocumentApi\\Services\\DocumentService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:17:45.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentContentController.cs",
+              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Controllers\\DocumentContentController.cs",
+              "RelativeDocumentMoniker": "DocumentApi\\Controllers\\DocumentContentController.cs",
+              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Controllers\\DocumentContentController.cs",
+              "RelativeToolTip": "DocumentApi\\Controllers\\DocumentContentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:55:48.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentDto.cs",
+              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\DTOs\\DocumentDto.cs",
+              "RelativeDocumentMoniker": "DocumentApi\\DTOs\\DocumentDto.cs",
+              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\DTOs\\DocumentDto.cs",
+              "RelativeToolTip": "DocumentApi\\DTOs\\DocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:07:04.908Z"
             },
             {
               "$type": "Document",
@@ -135,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DocumentsController.cs",
               "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Controllers\\DocumentsController.cs",
               "RelativeDocumentMoniker": "DocumentApi\\Controllers\\DocumentsController.cs",
@@ -148,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Models\\Document.cs",
               "RelativeDocumentMoniker": "DocumentApi\\Models\\Document.cs",
@@ -157,30 +183,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T11:18:35.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DocumentService.cs",
-              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\DocumentService.cs",
-              "RelativeDocumentMoniker": "DocumentApi\\Services\\DocumentService.cs",
-              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\DocumentService.cs",
-              "RelativeToolTip": "DocumentApi\\Services\\DocumentService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:17:45.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BlobStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\BlobStorageService.cs",
-              "RelativeDocumentMoniker": "DocumentApi\\Services\\BlobStorageService.cs",
-              "ToolTip": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\Services\\BlobStorageService.cs",
-              "RelativeToolTip": "DocumentApi\\Services\\BlobStorageService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:17:22.784Z"
             }
           ]
         }
