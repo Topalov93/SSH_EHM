@@ -50,15 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -95,8 +91,7 @@
               "RelativeToolTip": "DocumentApi\\Services\\BlobStorageService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:17:22.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T11:17:22.784Z"
             },
             {
               "$type": "Document",
@@ -108,8 +103,7 @@
               "RelativeToolTip": "DocumentApi\\Services\\DocumentService.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:17:45.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T11:17:45.381Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "DocumentApi\\Controllers\\DocumentsController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T11:19:42.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T11:19:42.248Z"
             },
             {
               "$type": "Document",
