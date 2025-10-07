@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net8.0": {
       "Azure.Core/1.28.0": {
         "type": "package",
         "dependencies": {
@@ -3703,7 +3703,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net8.0": [
       "Azure.Storage.Blobs >= 12.15.0",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
@@ -3717,11 +3717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\DocumentApi.csproj",
+      "projectUniqueName": "C:\\Users\\georgi.topalov\\Desktop\\git\\SCC_EHM\\SSH_EHM\\DocumentApi\\DocumentApi.csproj",
       "projectName": "DocumentApi",
-      "projectPath": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\DocumentApi.csproj",
+      "projectPath": "C:\\Users\\georgi.topalov\\Desktop\\git\\SCC_EHM\\SSH_EHM\\DocumentApi\\DocumentApi.csproj",
       "packagesPath": "C:\\Users\\georgi.topalov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\obj\\",
+      "outputPath": "C:\\Users\\georgi.topalov\\Desktop\\git\\SCC_EHM\\SSH_EHM\\DocumentApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3732,15 +3732,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -3753,11 +3753,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Azure.Storage.Blobs": {
             "target": "Package",
@@ -3795,7 +3796,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

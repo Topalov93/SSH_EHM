@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nq9noXiyzBI=",
+  "dgSpecHash": "Vo/HL4vEagk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\georgi.topalov\\Downloads\\SCC_EHM_v1\\DocumentApi\\DocumentApi.csproj",
+  "projectFilePath": "C:\\Users\\georgi.topalov\\Desktop\\git\\SCC_EHM\\SSH_EHM\\DocumentApi\\DocumentApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georgi.topalov\\.nuget\\packages\\azure.core\\1.28.0\\azure.core.1.28.0.nupkg.sha512",
     "C:\\Users\\georgi.topalov\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
