@@ -1,6 +1,9 @@
 using DocumentApi.Data;
 using DocumentApi.Models;
 using Microsoft.EntityFrameworkCore;
+using RtfPipe;
+using System.Text;
+using Document = DocumentApi.Models.Document;
 
 namespace DocumentApi.Services
 {
@@ -20,6 +23,16 @@ namespace DocumentApi.Services
             string blobName = "";
             string? contentType = null;
             long size = 0;
+
+
+            // Need to decide which approach will take
+
+            if (file != null)
+            {
+                using var stream = file.OpenReadStream();
+                Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+                var html = RtfPipe.Rtf.ToHtml(stream);
+            }
 
             if (file != null)
             {

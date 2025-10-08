@@ -642,6 +642,15 @@
           }
         }
       },
+      "RtfPipe/2.0.7677.4303": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RtfPipe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RtfPipe.dll": {}
+        }
+      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "type": "package",
         "dependencies": {
@@ -2327,6 +2336,20 @@
         "version.txt"
       ]
     },
+    "RtfPipe/2.0.7677.4303": {
+      "sha512": "ek6wuC69GYVJr0b/C5mcgbFUHPLL11iAbUFqQphdBaqSoEjOdSB/HWCID5nneA5exM88UZzOTCJCMpftDYnCZA==",
+      "type": "package",
+      "path": "rtfpipe/2.0.7677.4303",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/RtfPipe.dll",
+        "lib/net45/RtfPipe.dll",
+        "lib/netstandard2.0/RtfPipe.dll",
+        "rtfpipe.2.0.7677.4303.nupkg.sha512",
+        "rtfpipe.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.4.0": {
       "sha512": "eUBr4TW0up6oKDA5Xwkul289uqSMgY0xGN4pnbOIBqCcN9VKGGaPvHX3vWaG/hvocfGDP+MGzMA0bBBKz2fkmQ==",
       "type": "package",
@@ -3707,6 +3730,7 @@
       "Azure.Storage.Blobs >= 12.15.0",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
+      "RtfPipe >= 2.0.7677.4303",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -3771,6 +3795,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[7.0.0, )"
+          },
+          "RtfPipe": {
+            "target": "Package",
+            "version": "[2.0.7677.4303, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
